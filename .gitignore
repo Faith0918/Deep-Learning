@@ -4,4 +4,8 @@ datasets/
 
 *.zip
 
+*.h5
 
+*.hdh5
+
+/ML-with-keras/ch5/datasets/
